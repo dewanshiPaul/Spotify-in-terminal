@@ -16,6 +16,7 @@ script.py -u <user id>
 - move to previous song
 - get latest 30 new release songs name and their artist
 - pause the song(to resume it you have to resume from web)
+- get current playing track details
 
 ## Screenshots
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/92020810/172808854-811530cb-919b-428f-9391-ff5f87d5392b.png">
